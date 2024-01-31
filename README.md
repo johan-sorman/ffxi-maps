@@ -1,4 +1,6 @@
-# XI Vision Update for March 17, 2014, to include Outer Ra'Kaznar maps.
+## FFXI Edited Maps
+
+XI Vision Update for March 17, 2014, to include Outer Ra'Kaznar maps.
 
 Copy the ROM folders to your FFXI directory choosing yes when prompted to overwrite any files. The FFXI directory is usually located at 
 `X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\` or in x64 OS, `X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\` 
