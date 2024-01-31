@@ -1,5 +1,7 @@
 ## FFXI Edited Maps
 
+Download [latest release](https://github.com/johan-sorman/ffxi-maps/releases/latest)
+
 XI Vision Update for March 17, 2014, to include Outer Ra'Kaznar maps.
 
 Copy the ROM folders to your FFXI directory choosing yes when prompted to overwrite any files. The FFXI directory is usually located at 
