@@ -3,10 +3,10 @@
 Download [latest release](https://github.com/johan-sorman/ffxi-maps/releases/latest)
 <br/>or download from source (Code dropdown > Download zip)
 
-XI Vision Update for March 17, 2014, to include Outer Ra'Kaznar maps.
+### Installation Options
 
-Copy the ROM folders to your FFXI directory choosing yes when prompted to overwrite any files. The FFXI directory is usually located at 
-`X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\` or in x64 OS, `X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\` 
-X in place of your drive label. (Usually C)
+There are two methods to install these modified maps into your FFXI client.
 
-*The Steam version of FINAL FANTASY XI is located at `X:\Program Files\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI`  
+- Preferred method: [XIPivot](https://github.com/Shirk/XIPivot) is a dat replacement plugin available for both Windower and Ashita which allows a user to dynamically replace `.dat` files with custom versions. I advise searching for the plugin and following the setup guide. This is now the preferred method for using custom `.dat` files of any type.
+
+- Manual method: Copy and Paste the ROM## folders directly into the `./FINAL FANTASY XI/` folder, replacing all files when prompted. This will OVERWRITE all the game dats with the updated map files.
