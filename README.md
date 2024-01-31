@@ -1,6 +1,7 @@
 ## FFXI Edited Maps
 
 Download [latest release](https://github.com/johan-sorman/ffxi-maps/releases/latest)
+Or download from source (Code dropdown > Download zip)
 
 XI Vision Update for March 17, 2014, to include Outer Ra'Kaznar maps.
 
